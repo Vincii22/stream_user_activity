@@ -1,0 +1,23 @@
+# FastAPI & API Server
+fastapi 
+uvicorn[standard]
+
+# PostgreSQL ORM
+sqlalchemy
+psycopg2-binary 
+
+# Spark + Kafka Integration
+pyspark
+
+# Kafka Client for producing events 
+confluent-kafka 
+
+# Data Handling
+pandas 
+
+# Environment-variables
+python-dotenv
+
+# Optional (Unless you use async ORM)
+asyncpg
+
